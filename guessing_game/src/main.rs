@@ -4,7 +4,7 @@ use std::io; //basic I/O
 
 
 fn main() {
-    println!("Guess the number!");
+    println!("Guess the number AHA!");
 
     let secret_number = rand::thread_rng().gen_range(1..=100);
 
